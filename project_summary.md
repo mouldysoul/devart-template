@@ -1,15 +1,23 @@
 # Project Title
-Insert the name of your project
+The self learning tangled hierarchy feedback loop
 
 ## Authors
 - Insert main author name, surname, github account
 - Insert other author(s) name, surname, github account (one per list element)
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+The idea of this project is to create a musical instruent that learns how the user wants it to be played. The project uses an IR motion detector to measure movements in position and distance of hands and outputs Midi note values to be fed into a synthesiser. A neural net is to be implemented to help associate gestures to trained interval or chord progression nets, for example a user could train a neural net by rewarding it for pleasent intervals or chord progressions, this data could then be used to attach on to certain gestures. No knowledge would be required to play this instrument only an ability to move one's hand. There is also an element of real-time visual feedback courtesy of a projector pointing at a screen and the angles of camera planes manipulated by distance/postion info from IR device. 
+
 
 ## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
+
+Noise:
+
+http://www.youtube.com/watch?v=KLh4ZvrgDxE
+
+Visuals:
+
+http://www.youtube.com/watch?v=458uyit28Ps
 
 [Example Link](http://www.google.com "Example Link")
 
